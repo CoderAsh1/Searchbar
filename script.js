@@ -45,3 +45,7 @@ btn.onclick = () => {
     linkTag.click();
   }
 };
+
+function trial() {
+  return a;
+}
