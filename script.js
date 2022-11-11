@@ -49,3 +49,6 @@ btn.onclick = () => {
 function trial() {
   return a;
 }
+function c() {
+  ErrorEvent;
+}
